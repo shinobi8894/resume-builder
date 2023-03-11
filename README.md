@@ -21,4 +21,4 @@
 - Add an API Key to your account in order to communicate with the API.
 - Run both servers using `npm start`
 
-Let's grow together with Shinobi8894!!!
+Let's grow together with Shinobi8894
